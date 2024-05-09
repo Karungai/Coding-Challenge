@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: beige;
+    color: brown;
+}
+
+button {
+background-color: blue;
+color: aquamarine;
+border: none;
+padding: 10px 20px;
+font-size: 20px;
+cursor: pointer;
+border-radius: 10px;
+box-shadow: 0 4px 6px rgba(red, green, blue, alpha);
+transition: 0.3s;
+}
+
+button:hover {
+    background-color: chocolate;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    font-size: 32px;
+    margin-top: 20px;
+}
